@@ -1,0 +1,86 @@
+#nav {
+  width: 90%;
+  margin: 0 auto;
+  padding-top: 10px;
+  border-bottom: 1px solid gray;
+}
+
+.nav-item {
+  display: inline-block;
+  color:#;
+}
+
+.nav-link {
+  float: right;
+  margin-left: 10px;
+}
+
+#home-body {
+	 background-image: url("https://ae01.alicdn.com/kf/HTB1whYQNpXXXXXhXFXXq6xXFXXXk/G099-font-b-AC-b-font-font-b-DC-b-font-LOGO-music-rock-band-Vinyl.jpg");
+   
+
+}
+
+#slide {
+	margin: auto;
+	width:500px;
+}
+
+#title {
+	color:red;
+	font-family: "atomic age", "cursive";
+	font-size:50px;
+}
+
+
+
+.links {
+	color:red;
+}
+
+.links:hover {
+	color:orange;
+}
+
+table td, table tr {
+	text-align: center;
+}
+
+table, th, td {
+    
+}
+
+tr:hover {background-color: #f5f5f5}
+
+th, td {
+    border-bottom: 1px solid #ddd;
+
+}
+
+ .tickets:hover {
+ 	color:red;
+
+ }
+
+ #thanks {
+ 	color:#960d28;
+ }
+
+.myslides {
+	width: 50%;
+	height: 50%
+}
+
+
+iframe{
+  margin-left: 10px;
+}
+
+#soldout {
+	background:#999292;
+}
+
+#special {
+	font-size: large;
+	font-style: 
+}

@@ -1,0 +1,133 @@
+#nav {
+  width: 90%;
+  margin: 0 auto;
+  padding-top: 10px;
+    background-color: solid-gray;
+  border-bottom: 1px ;
+}
+
+.nav-item {
+  display: inline-block;
+  font-size: 38px;
+}
+.About {
+color: #baf6ff;
+border: dashed;
+border-color:animation: colorchange 4s infinite;  
+  animation: 4s infinite bgcolorchange;
+}
+@keyframes bgcolorchange {
+  0% {
+    background-color: #46a1e2;
+  }
+  25% {
+    background-color: green;
+  }
+  50% {
+    background-color: yellow;
+  }
+  75% {
+    background-color: yellow;
+  }
+  100% {
+    background-color: #8b159b;
+  }
+}
+      0%   {background: #46a1e2;}
+      25%  {background: yellow;}
+      75%  {background: green;}
+      100% {background: #8b159b;}";> };;
+#Staff {
+  color: solid-red;
+  border: thick;
+  border-color: orange;
+}
+
+}
+.nav-link {
+  float: right
+  ;margin-left: 10px;
+}
+
+
+body {background-color:animation: colorchange 4s infinite;  
+  animation: 4s infinite bgcolorchange;
+}
+@keyframes bgcolorchange {
+  0% {
+    background-color: #00008B;
+  }
+  25% {
+    background-color: aqua;
+  }
+  50% {
+    background-color: #1E90FF;
+  }
+  75% {
+    background-color: #0000CD;
+  }
+  100% {
+    background-color: royalblue;
+  }
+}
+      0%   {background: #00008B;}
+      25%  {background: aqua;}
+      75%  {background: #0000CD;}
+      100% {background: royalblue;}";> };
+
+<style>
+.parallax {
+    /* The image used */
+    background-image: url("img_parallax.jpg");
+
+    /* Set a specific height */
+    min-height: 500px; 
+
+    /* Create the parallax scrolling effect */
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+</style>
+.parallax {
+    /* The image used */
+    background-image: url("img_parallax.jpg");
+
+    /* Set a specific height */
+    min-height: 500px; 
+
+    /* Create the parallax scrolling effect */
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+
+
+.cited {
+  font-family: 'Black Ops One' , cursive;
+  color: green;
+  border-top-color: aquamarine;
+  border-top-style: groove;
+  border-left-color: teal;
+  border-left-style: dotted;
+  border-right-color: purple;
+  border-right-style: outset;
+  border-bottom-color: palegreen;
+  border-bottom-style: dashed;
+}
+
+.cited3 {
+  color: #baf6ff;
+  font-family: 'Black Ops One' , cursive;
+  text-shadow: 5px, #54cbff;
+}
+
+
+#blazed {
+  font-family: Blazed;
+  src: url("Font/Blazed.ttf");
+  color: royalblue;
+}

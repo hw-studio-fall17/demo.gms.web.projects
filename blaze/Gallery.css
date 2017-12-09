@@ -1,0 +1,172 @@
+body {
+	background: linear-gradient(to left, green, deepskyblue, #14ffd0, #00d807, #14ffd0, deepskyblue, green);
+}
+
+#gallery1 {
+	color: dodgerblue;
+	font-family: 'Metal Mania', cursive;
+	text-shadow: 2px 4px darkblue;
+}
+
+
+#panda1 {
+	color: chartreuse;
+	font-family: 'Nunito', sans-serif;
+}
+
+#panda2 {
+	color: #56ad00;
+	font-family: 'Calligraffitti', cursive;
+}
+
+#gallery2 {
+	color:dodgerblue;
+	font-family: 'Metal Mania', cursive;
+	text-shadow: 2px 4px darkblue;
+}
+
+#kangaroo1 {
+	color: orangered;
+	font-family: 'Nunito', sans-serif;
+}
+
+#kangaroo2 {
+	color: orangered;
+	font-family: 'Kanit', sans-serif;
+	text-shadow: 2px 1px darkred;
+}
+
+#dog1 {
+	color: chocolate;
+	font-family: 'Nunito', sans-serif;
+}
+
+#dog2 {
+	color: chocolate;
+font-family: 'Julius Sans One', sans-serif;
+}
+
+#monkey1 {
+	color: firebrick;
+	font-family: 'Nunito', sans-serif;
+}
+#monkey2 {
+	color: firebrick;
+	font-family: 'Spectral SC', serif;;
+}
+
+#elephant1 {
+	color: slateblue;
+	font-family: 'Nunito', sans-serif;
+}
+#elephant2 {
+color: slateblue;
+font-family: 'Julius Sans One', sans-serif;
+}
+#eagle1 {
+	color: goldenrod;
+		font-family: 'Nunito', sans-serif;
+}
+#eagle2 {
+	color: goldenrod;
+	font-family: 'Orbitron', sans-serif;
+}
+
+#l2 {
+color: darkred;
+font-family: 'Nunito', sans-serif;
+}
+
+#l3 {
+	color: darkred;
+	font-family: 'Cagliostro', cursive;
+}
+#d1 {
+	color: darkgreen;
+font-family: 'Nunito', sans-serif;
+}
+#d2 {
+	color: darkgreen;
+	font-family: 'UnifrakturMaguntia', cursive;
+}
+
+#s2 {
+	color: darkblue;
+	font-family:'Nunito', sans-serif;
+}
+
+#s3 {
+	color: darkblue;
+	font-family: 'Ruslan Display', cursive;
+}
+
+#g1 {
+	color: orange;
+	font-family:'Nunito', sans-serif;
+}
+#k1 {
+	color: forestgreen;
+	font-family:'Nunito', sans-serif;
+}
+
+#kk {
+	color: forestgreen;
+	font-family: 'Ledger', sans-serif;
+}
+
+#cat1 {
+	color: darkslateblue;
+	font-family:'Nunito', sans-serif;
+}
+
+.cat1 {
+	color: darkslateblue;
+	font-family: 'Cagliostro', cursive;
+}
+
+
+
+
+#hed {
+	color: dodgerblue;
+	font-family: 'Metal Mania', cursive;
+	border-top: double;
+	border-left: double;
+	border-bottom: double;
+	border-right: double;
+	border-top-color: #8a0996;
+	border-left-color: #8a0996;
+	border-bottom-color:#8a0996;
+	border-right-color: #8a0996;
+	text-shadow: 2px 4px darkblue;
+}
+
+
+#o1 {
+	color: darkblue;
+	font-family:'Nunito', sans-serif;
+}
+
+
+
+#o2 {
+	color: darkblue;
+	font-family: 'Fish Out Of Water', sans-serif;
+
+}
+
+
+#sq2 {
+	color: #251efc;
+font-family: 'Stardos Stencil', cursive;
+}
+
+#ss {
+	color: #0a680a;
+	font-family: 'Nunito', sans-serif;
+}
+
+#sss {
+	color: #0a680a;
+	font-family: 'Ledger', sans-serif;
+}

@@ -1,0 +1,63 @@
+body
+{
+  background: darkorchid;
+  background: linear-gradient(to right, red, blue, midnightblue, darkorchid, #b11cdb, purple);
+  color: white;
+  font-family: TrebuchetMS, Verdana;
+  //text-shadow: 2px 2px green;
+}
+
+#container
+{
+  border: 2px dotted orange-yellow;
+  background-color: green;
+  margin: 20px;
+  padding: 10px;
+}
+
+
+
+
+#button2 {
+  background-color: transparent;
+  border: transparent;
+  size: 50px 100px;
+
+}
+
+h1
+{
+  text-shadow: 3px 3px red-blue;
+}
+h2
+{
+  text-shadow: 3px 3px red-blue;
+}
+h3
+{
+  text-shadow: 3px 3px royalblue;
+}
+
+#Question {
+  font-style: inherit;
+  color: red;
+}
+
+#Blazi {
+  color: blue;
+  text-shadow: 2px 6px #221cdb;
+}
+
+
+
+#bottomtext: {
+  font-style: 'Black Ops One', cursive;
+ color: gold;
+text-indent: 50px;
+ }
+      
+ 
+ 
+
+
+

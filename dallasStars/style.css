@@ -1,0 +1,35 @@
+#nav {
+  width: 90%;
+  margin: 0 auto;
+  padding-top: 10px;
+  border-bottom: 1px solid gray;
+}
+
+.nav-item {
+  display: inline-block;
+}
+
+.nav-link {
+  float: right;
+  margin-left: 10px;
+}
+
+div {
+ height: 100px;
+ width: 500%;
+}
+
+body {
+	background-color: #006847
+}
+
+#pic img {
+	width:500px;
+	
+}
+p{
+	color: #8F8F8C;
+}
+
+
+ 

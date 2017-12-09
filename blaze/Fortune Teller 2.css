@@ -1,0 +1,31 @@
+body
+{
+  background: darkorchid;
+  background: linear-gradient(to right, midnightblue, darkorchid);
+  color: white;
+  font-family: TrebuchetMS, Verdana;
+  //text-shadow: 2px 2px green;
+}
+
+#container
+{
+  border: 2px dotted;
+  border-top-color: dodgerblue;
+  border-left-color: mediumaquamarine;
+  border-right-color: mediumseagreen;
+  border-bottom-color: deepskyblue;
+  margin: 20px;
+  padding: 10px;
+}
+
+#fortune
+{
+  border: 2px solid white;
+  background-color: darkslateblue;
+  padding: 20px;
+}
+
+h1
+{
+  text-shadow:3px 3px purple;
+}

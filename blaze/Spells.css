@@ -1,0 +1,199 @@
+#nav {
+  width: 90%;
+  margin: 0 auto;
+  padding-top: 10px;
+    background-color: solid-gray;
+  border-bottom: 1px ;
+}
+
+.nav-item {
+  display: inline-block;
+  font-size: 38px;
+}
+.About {
+color: #baf6ff;
+border: dashed;
+border-color:animation: colorchange 4s infinite;  
+  animation: 4s infinite bgcolorchange;
+}
+@keyframes bgcolorchange {
+  0% {
+    background-color: #46a1e2;
+  }
+  25% {
+    background-color: green;
+  }
+  50% {
+    background-color: yellow;
+  }
+  75% {
+    background-color: yellow;
+  }
+  100% {
+    background-color: #8b159b;
+  }
+}
+      0%   {background: #46a1e2;}
+      25%  {background: yellow;}
+      75%  {background: green;}
+      100% {background: #8b159b;}";> };;
+#Staff {
+  color: solid-red;
+  border: thick;
+  border-color: orange;
+}
+
+}
+.nav-link {
+  float: right
+  ;margin-left: 10px;
+}
+#Blaze {
+  text-decoration: inherit;
+  color: #baf6ff;
+}
+
+#Blazinator {
+	text-shadow: 2px 2px #1376d3;
+}
+
+#Blazinator {
+  font-style: fantasy;
+font-family: 'Orbitron', sans-serif;
+  font-size: 150px;
+}
+
+#spells {
+  font-size: 40px;
+  font-style: italic;
+  color: #ff283a;
+  font-family: Blazed;
+ src: url("Font/Blazed.ttf");
+}
+
+body {
+  background: linear-gradient(to right, royalblue, gold, dodgerblue, deepskyblue, aqua, cyan, deeppink, red, orangered, yellow, springgreen, lime, chartreuse, magenta, darkviolet, mediumvioletred);
+}
+
+<style>
+.parallax {
+    /* The image used */
+    background-image: url("img_parallax.jpg");
+
+    /* Set a specific height */
+    min-height: 500px; 
+
+    /* Create the parallax scrolling effect */
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+</style>
+
+.Reviewer {
+  border: ridge;
+  border-color: orange;
+}
+
+#Rating {
+  border: double;
+  border-color: blue;
+}
+
+#Review {
+  border: outset;
+  border-color: #2fff28;
+}
+
+#forto {
+  size: 450px;
+}
+
+#button {
+  background-color: #ff1938;
+  box-shadow: 2px, 2px, #FF0000;
+  color: solid-yellow;
+  font-family: 'Berkshire Swash', cursive;
+  font-variant: initial;
+  font-size:  30px;
+  height: 40px;
+}
+
+#Spells {
+  color: solid-gray;
+  font-family: 'Calligrafitti', cursive;
+}
+
+#Spells2 {
+  color: #baf6ff;
+  font-family: 'Orbitron' , sans-serif;
+}
+
+#blazed {
+  font-family: Blazed;
+  src: url("Font/Blazed.ttf");
+  color: red;
+}
+#luck {
+  font-family: Lucker;
+  src: url("Font/Lucker.ttf");
+  color: green;
+}
+
+
+#wicked {
+color: orange;
+}
+
+#health {
+  color: #eb42f4;
+}
+#fantasy {
+  color: #0542c4;
+}
+
+.parallax {
+    /* The image used */
+    background-image: url("img_parallax.jpg");
+
+    /* Set a specific height */
+    min-height: 500px; 
+
+    /* Create the parallax scrolling effect */
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+
+
+.cited {
+  font-family: 'Black Ops One' , cursive;
+  color: green;
+  border-top-color: red;
+  border-top-style: groove;
+  border-left-color: orange;
+  border-left-style: dotted;
+  border-right-color: purple;
+  border-right-style: outset;
+  border-bottom-color: yellow;
+  border-bottom-style: dashed;
+}
+
+.cited3 {
+  color: #baf6ff;
+  font-family: 'Black Ops One' , cursive;
+  text-shadow: 5px, #54cbff;
+}
+
+
+
+
+#button2 {
+  background-color: transparent;
+  border: transparent;
+
+}
+
